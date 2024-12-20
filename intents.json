@@ -1,0 +1,425 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hello",
+            "Hey",
+            "How are you",
+            "What's up"
+        ],
+        "responses": [
+            "Hi there",
+            "Hello",
+            "Hey",
+            "I'm fine, thank you",
+            "Nothing much"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Bye",
+            "See you later",
+            "Goodbye",
+            "Take care"
+        ],
+        "responses": [
+            "Goodbye",
+            "See you later",
+            "Take care"
+        ]
+    },
+    {
+        "tag": "thanks",
+        "patterns": [
+            "Thank you",
+            "Thanks",
+            "Thanks a lot",
+            "I appreciate it"
+        ],
+        "responses": [
+            "You're welcome",
+            "No problem",
+            "Glad I could help"
+        ]
+    },
+    {
+        "tag": "about",
+        "patterns": [
+            "What can you do",
+            "Who are you",
+            "What are you",
+            "What is your purpose"
+        ],
+        "responses": [
+            "I am a chatbot",
+            "My purpose is to assist you",
+            "I can answer questions and provide assistance"
+        ]
+    },
+    {
+        "tag": "help",
+        "patterns": [
+            "Help",
+            "I need help",
+            "Can you help me",
+            "What should I do"
+        ],
+        "responses": [
+            "Sure, what do you need help with?",
+            "I'm here to help. What's the problem?",
+            "How can I assist you?"
+        ]
+    },
+    {
+        "tag": "age",
+        "patterns": [
+            "How old are you",
+            "What's your age"
+        ],
+        "responses": [
+            "I don't have an age. I'm a chatbot.",
+            "I was just born in the digital world.",
+            "Age is just a number for me."
+        ]
+    },
+    {
+        "tag": "fantasy",
+        "patterns": [
+            "Fantasy",
+            "Magic",
+            "Epic"
+        ],
+        "responses": [
+            "The Hobbit by J.R.R. Tolkien",
+            "Harry Potter Series by J.K. Rowling",
+            "The Name of the Wind by Patrick Rothfuss"
+        ]
+    },
+    {
+        "tag": "science fiction",
+        "patterns": [
+            "Sci-fi",
+            "Futuristic",
+            "Space"
+        ],
+        "responses": [
+            "Dune by Frank Herbert",
+            "Ender's Game by Orson Scott Card",
+            "Neuromancer by William Gibson"
+        ]
+    },
+    {
+        "tag": "mystery",
+        "patterns": [
+            "Mystery",
+            "Detective",
+            "Crime"
+        ],
+        "responses": [
+            "The Girl with the Dragon Tattoo by Stieg Larsson",
+            "Gone Girl by Gillian Flynn",
+            "The Da Vinci Code by Dan Brown"
+        ]
+    },
+    {
+        "tag": "romance",
+        "patterns": [
+            "Romance",
+            "Love Story",
+            "Heartwarming"
+        ],
+        "responses": [
+            "Pride and Prejudice by Jane Austen",
+            "Me Before You by Jojo Moyes",
+            "The Notebook by Nicholas Sparks"
+        ]
+    },
+    {
+        "tag": "horror",
+        "patterns": [
+            "Horror",
+            "Scary",
+            "Thriller"
+        ],
+        "responses": [
+            "The Shining by Stephen King",
+            "Dracula by Bram Stoker",
+            "Bird Box by Josh Malerman"
+        ]
+    },
+    {
+        "tag": "non-fiction",
+        "patterns": [
+            "Non-fiction",
+            "Biography",
+            "Memoir"
+        ],
+        "responses": [
+            "Educated by Tara Westover",
+            "Becoming by Michelle Obama",
+            "Sapiens by Yuval Noah Harari"
+        ]
+    },
+    {
+        "tag": "self-help",
+        "patterns": [
+            "Self-help",
+            "Motivation",
+            "Personal Development"
+        ],
+        "responses": [
+            "Atomic Habits by James Clear",
+            "The Power of Habit by Charles Duhigg",
+            "How to Win Friends and Influence People by Dale Carnegie"
+        ]
+    },
+    {
+        "tag": "historical fiction",
+        "patterns": [
+            "Historical Fiction",
+            "Historical",
+            "Past"
+        ],
+        "responses": [
+            "The Book Thief by Markus Zusak",
+            "All the Light We Cannot See by Anthony Doerr",
+            "The Nightingale by Kristin Hannah"
+        ]
+    },
+    {
+        "tag": "young adult",
+        "patterns": [
+            "Young Adult",
+            "Teen",
+            "YA"
+        ],
+        "responses": [
+            "The Hunger Games by Suzanne Collins",
+            "The Fault in Our Stars by John Green",
+            "Divergent by Veronica Roth"
+        ]
+    },
+    {
+        "tag": "classic",
+        "patterns": [
+            "Classic",
+            "Timeless",
+            "Literature"
+        ],
+        "responses": [
+            "To Kill a Mockingbird by Harper Lee",
+            "1984 by George Orwell",
+            "Moby Dick by Herman Melville"
+        ]
+    },
+    {
+        "tag": "thriller",
+        "patterns": [
+            "Thriller",
+            "Suspense",
+            "Page-turner"
+        ],
+        "responses": [
+            "The Girl on the Train by Paula Hawkins",
+            "The Silent Patient by Alex Michaelides",
+            "The Woman in the Window by A.J. Finn"
+        ]
+    },
+    {
+        "tag": "adventure",
+        "patterns": [
+            "Adventure",
+            "Journey",
+            "Quest"
+        ],
+        "responses": [
+            "The Count of Monte Cristo by Alexandre Dumas",
+            "Life of Pi by Yann Martel",
+            "Into the Wild by Jon Krakauer"
+        ]
+    },
+    {
+        "tag": "dystopian",
+        "patterns": [
+            "Dystopian",
+            "Apocalyptic",
+            "Future"
+        ],
+        "responses": [
+            "Brave New World by Aldous Huxley",
+            "The Road by Cormac McCarthy",
+            "Fahrenheit 451 by Ray Bradbury"
+        ]
+    },
+    {
+        "tag": "graphic novel",
+        "patterns": [
+            "Graphic Novel",
+            "Comic",
+            "Illustrated"
+        ],
+        "responses": [
+            "Maus by Art Spiegelman",
+            "Persepolis by Marjane Satrapi",
+            "Watchmen by Alan Moore"
+        ]
+    },
+    {
+        "tag": "historical",
+        "patterns": [
+            "Historical",
+            "Period",
+            "Past"
+        ],
+        "responses": [
+            "Wolf Hall by Hilary Mantel",
+            "The Pillars of the Earth by Ken Follett",
+            "Outlander by Diana Gabaldon"
+        ]
+    },
+    {
+        "tag": "psychological thriller",
+        "patterns": [
+            "Psychological",
+            "Thriller",
+            "Mind-bending"
+        ],
+        "responses": [
+            "The Girl on the Train by Paula Hawkins",
+            "The Silent Patient by Alex Michaelides",
+            "Sharp Objects by Gillian Flynn"
+        ]
+    },
+    {
+        "tag": "children's",
+        "patterns": [
+            "Children's",
+            "Kids",
+            "Childhood"
+        ],
+        "responses": [
+            "Charlotte's Web by E.B. White",
+            "Where the Wild Things Are by Maurice Sendak",
+            "Matilda by Roald Dahl"
+        ]
+    },
+    {
+        "tag": "comedy",
+        "patterns": [
+            "Comedy",
+            "Humor",
+            "Funny"
+        ],
+        "responses": [
+            "Good Omens by Neil Gaiman and Terry Pratchett",
+            "Catch-22 by Joseph Heller",
+            "The Hitchhiker's Guide to the Galaxy by Douglas Adams"
+        ]
+    },
+    {
+        "tag": "drama",
+        "patterns": [
+            "Drama",
+            "Emotional",
+            "Tension"
+        ],
+        "responses": [
+            "A Man Called Ove by Fredrik Backman",
+            "The Kite Runner by Khaled Hosseini",
+            "The Great Gatsby by F. Scott Fitzgerald"
+        ]
+    },
+    {
+        "tag": "post-apocalyptic",
+        "patterns": [
+            "Post-apocalyptic",
+            "Aftermath",
+            "Survival"
+        ],
+        "responses": [
+            "Station Eleven by Emily St. John Mandel",
+            "The Road by Cormac McCarthy",
+            "The Stand by Stephen King"
+        ]
+    },
+    {
+        "tag": "historical romance",
+        "patterns": [
+            "Historical Romance",
+            "Period Romance",
+            "Love in History"
+        ],
+        "responses": [
+            "Pride and Prejudice by Jane Austen",
+            "Outlander by Diana Gabaldon",
+            "Gone with the Wind by Margaret Mitchell"
+        ]
+    },
+    {
+        "tag": "crime",
+        "patterns": [
+            "Crime",
+            "Criminal",
+            "Investigation"
+        ],
+        "responses": [
+            "The Girl with the Dragon Tattoo by Stieg Larsson",
+            "In Cold Blood by Truman Capote",
+            "The Godfather by Mario Puzo"
+        ]
+    },
+    {
+        "tag": "biography",
+        "patterns": [
+            "Biography",
+            "Life Story",
+            "Memoir"
+        ],
+        "responses": [
+            "Steve Jobs by Walter Isaacson",
+            "The Diary of a Young Girl by Anne Frank",
+            "Long Walk to Freedom by Nelson Mandela"
+        ]
+    },
+    {
+        "tag": "urban fantasy",
+        "patterns": [
+            "Urban Fantasy",
+            "Modern Fantasy",
+            "Magic in the City"
+        ],
+        "responses": [
+            "Neverwhere by Neil Gaiman",
+            "City of Bones by Cassandra Clare",
+            "Rivers of London by Ben Aaronovitch"
+        ]
+    },
+    {
+        "tag": "paranormal",
+        "patterns": [
+            "Paranormal",
+            "Supernatural",
+            "Ghosts"
+        ],
+        "responses": [
+            "The Haunting of Hill House by Shirley Jackson",
+            "Ghost Story by Peter Straub",
+            "The Shining by Stephen King"
+        ]
+    },
+    {
+        "tag": "cyberpunk",
+        "patterns": [
+            "Cyberpunk",
+            "Futuristic",
+            "High-Tech"
+        ],
+        "responses": [
+            "Neuromancer by William Gibson",
+            "Snow Crash by Neal Stephenson",
+            "Altered Carbon by Richard K. Morgan"
+        ]
+    }
+]
